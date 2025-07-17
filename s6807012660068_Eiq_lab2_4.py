@@ -16,3 +16,6 @@ print("not equal to:",{a!=b})
 print("equal to:",{a==b})
 
 # This code is a simple calculator that performs basic arithmetic operations and compares two numbers.
+print("This code is a simple calculator that performs basic arithmetic operations and compares two numbers.")
+print("It takes your name and surname, then performs addition, subtraction, multiplication, division, exponentiation, floor division, and modulus on two numbers you provide.")
+print("It also compares the two numbers using less than, greater than or equal to, not equal to, and equal to operations.")
