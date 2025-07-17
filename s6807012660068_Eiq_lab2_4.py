@@ -14,3 +14,5 @@ print("less than:",{a<b})
 print("greater than or equal to:",{a>=b})
 print("not equal to:",{a!=b})
 print("equal to:",{a==b})
+
+# This code is a simple calculator that performs basic arithmetic operations and compares two numbers.
