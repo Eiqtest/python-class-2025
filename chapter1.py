@@ -112,22 +112,22 @@
 # b = 10  
 # x=z=k= 15
 # #  Arithmetic operators "+""
-a = 8
-b = 2 
-a = a + b  # Addition 10
-b = a - b # Subtraction 8 FOR NOW ON B IS 8 CAUSE IT ASSIGN TO "b"
-c = a * b  # Multiplication 80
-d = a / b#Division 1.25
-e = a % b # Modulus 1
-f = a** b# Exponentiation 10^8
-g = a // b# Floor division 2
-print("Addition:", a)
-print("Subtraction:", b)
-print("Multiplication:", c)
-print("Division:", d)
-print("Modulus:", e)
-print("Exponentiation:", f)
-print("Floor division:", g) 
+# a = 8
+# b = 2 
+# a = a + b  # Addition 10
+# b = a - b # Subtraction 8 FOR NOW ON B IS 8 CAUSE IT ASSIGN TO "b"
+# c = a * b  # Multiplication 80
+# d = a / b#Division 1.25
+# e = a % b # Modulus 1
+# f = a** b# Exponentiation 10^8
+# g = a // b# Floor division 2
+# print("Addition:", a)
+# print("Subtraction:", b)
+# print("Multiplication:", c)
+# print("Division:", d)
+# print("Modulus:", e)
+# print("Exponentiation:", f)
+# print("Floor division:", g) 
 
 #  Comparison operators
 # a = 10
@@ -189,3 +189,6 @@ print("Floor division:", g)
 # #  Identity operators
 # #  Membership operators
 # #  Bitwise operators
+
+# a = 5 
+# print (int(str(a)))
