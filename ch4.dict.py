@@ -29,19 +29,19 @@ dict1.update(dict2)
 print(dict1)
 
 #nested dict
-student = [
-    "person1",{
+student = {
+    "person1":{
     "name": "alice",
     "age": 25
     },
-    "person2", {
+    "person2":{
     "name" : "John",
     "age" : 28
     },
-    "person3", {
+    "person3":{
     "name" : "David",
     "age" : 21
-    },
-]
-for person,info in student items():
-    print(f"{person}: {info["name"]}")
+    }
+}
+for person in student.values():
+    print("name:", person["name"], "age:",person["age"])
